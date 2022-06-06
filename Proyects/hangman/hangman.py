@@ -36,7 +36,7 @@ def hangman():
     if lives <= 0:
         print(f'You died, sorry. The word was: {word}')
     else:
-        print(f'the word is: {word}')
+        print(f'You won. the word was: {word}')
 
 
 hangman()
