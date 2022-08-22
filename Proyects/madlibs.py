@@ -1,7 +1,7 @@
 #string concatenation (how to put strings together)
 #suppose we want to create a string that says "subscribe to ____"
 
-youtuber="bla bla bla" #some string variable
+youtuber="i dont know" #some string variable
 
 #print("subscribe to "+youtuber)
 #print("subscribe to {}".format(youtuber))
